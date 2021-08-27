@@ -6,7 +6,7 @@
 <p> Clone this repository to you local machine using the command below:</p>
 
 ```
-git clone https://github.com/Sumit-0311/RoboFriends.git
+git clone https://github.com/ayushneekhar/RoboFriends.git
 ```
 
 <p>Once cloned, use cd to change into the ZenFS directory. Then hit the command below to install all of the dependencies. </p>
